@@ -1,0 +1,9 @@
+{
+  "name": "test-runner-repro",
+  "workspaces": ["workspace"],
+  "dependencies": {
+    "@storybook/react-webpack5": "7.4.2",
+    "storybook": "7.4.2"
+  }
+}
+

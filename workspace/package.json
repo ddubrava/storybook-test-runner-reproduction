@@ -1,0 +1,10 @@
+{
+  "name": "workspace",
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "test:storybook:ci": "test-storybook --junit --ci"
+  },
+  "dependencies": {
+    "@storybook/test-runner": "0.13.0"
+  }
+}
